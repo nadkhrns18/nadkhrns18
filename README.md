@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<!--
-**nadkhrns18/nadkhrns18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 - 🌼 I'm currently learning about how to analyze and visualize data with python  
 - 📊 I'm interested and enthusiast to Machine learning and Data science  
 - 👾 Feel free to connect with me on linkedin https://www.linkedin.com/in//
